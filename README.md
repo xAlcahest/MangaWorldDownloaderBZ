@@ -1,6 +1,6 @@
 # MangaWorld Downloader 
 A Downloader For mangaworld.in,
-a project for educational purposes not affiliated with mangaworld.in, I am not responsible for the use and images hosted on mangaworld.in (now with the .bz tld)
+a project for educational purposes not affiliated with mangaworld.in (now with the .bz tld), I am not responsible for the use and images hosted on mangaworld.in (now with the .bz tld)
 
 # Features
 - Download of whole manga or single chapters
