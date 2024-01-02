@@ -1,14 +1,12 @@
 # MangaWorld Downloader 
 A Downloader For mangaworld.in,
-a project for educational purposes not affiliated with mangaworld.in, I am not responsible for the use and images hosted on mangaworld.in
-
-[IT Translation](README_IT.md)
-[DE Translation](README_DE.md)
+a project for educational purposes not affiliated with mangaworld.in, I am not responsible for the use and images hosted on mangaworld.in (now with the .bz tld)
 
 # Features
 - Download of whole manga or single chapters
 - MultiThreaded Download for downloading pages at maximum speed
 - Preview Download
+- In the releases, a bulk download script is provided
 
 # In case of a CloudFlare captcha
 To pass the block the program needs the cf_clearance cookie and the useragent of the browser you used to solve the captcha
